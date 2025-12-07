@@ -1,4 +1,7 @@
 {
-  "name": "@rhymecode/tsconfig",
-  "version": "1.0.0"
+  "name": "@raffi23/rhymecode-tsconfig",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "exit 0"
+  }
 }
